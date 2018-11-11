@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514140574 source:d:\code\数据结构\汉诺塔\main.c
+	<stdio.h>
+	<stdlib.h>
+
